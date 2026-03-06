@@ -146,4 +146,4 @@ LinkedIn:
 https://linkedin.com/in/sahibnoorkaur  
 
 GitHub:  
-https://github.com/sahibnoorkaur
+ https://sahibnoorkaur.github.io/
